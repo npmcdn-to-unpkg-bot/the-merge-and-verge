@@ -1,0 +1,41 @@
+
+
+ideas for project
+
+    - ability to show multiple graphs on the screen at the same time
+
+        -- oould be cool to do a masonry style moving around
+        -- could summon as many graphs as we can fit to the screen
+        -- would be able to drag and drop around the work area
+            --- drag items off screen/to trash area to get rid of
+        -- would be able to switch between types of graph, if applicable
+
+
+    - could show area of best growth or whatever
+
+    - could show areas for improvement
+
+
+how to proceed?
+
+    - make some block of html... angular directive... something
+
+        -- that can be populated with a certain type of graph
+
+        -- show more than one on screen
+
+            --- would be great if I could get the code to automatically pull from a data source
+
+
+        -- needs to definitely be scalable
+
+        -- would be sweet if we could show different types of graphs..
+            --- scroll through a databank of graph types
+            --- selecting one would change all the types of graphs
+
+
+        -- two views essentially, you select the graph type you want on one panel
+
+        -- drag or otherwise mark for specific graph (eg: bar chart of miles ran) onto the other panel
+
+        -- can view several side by side
